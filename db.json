@@ -1,13 +1,13 @@
 {
   "users": [
-    {"id": 1, "name": "Johanny", "username": "Solano",  "email": "Jophanny-94-@hotmail.com", "image": "https://www.instagram.com/goku.latino/p/CywDAtnx8-a/?img_index=1"},
-    {"id": 2, "name": "Sofia",   "username": "Artavia", "email": "Sofia-89-@hotmail.com",    "image": "https://www.pinterest.com/pin/581175526898718356/"},
-    {"id": 3, "name": "Linda",   "username": "Rojas",   "email": "Linda-99-@hotmail.com",    "image": "https://www.instagram.com/goku.latino/p/CywDAtnx8-a/?img_index=1"},
+    {"id": 1, "name": "Johanny", "username": "Solano",  "email": "Jophanny-94-@hotmail.com"},
+    {"id": 2, "name": "Sofia",   "username": "Artavia", "email": "Sofia-89-@hotmail.com"   },
+    {"id": 3, "name": "Linda",   "username": "Rojas",   "email": "Linda-99-@hotmail.com"   }
   ],
-    "posts": [
-      { "id": 1, "title": "porque adoptar los animales", "body": "pienso en su importancia", "userId": 1 },
-      { "id": 2, "title": "El calentamientgo global es", "body": " es algo que suceda",      "userId": 2 },
-      { "id": 3, "title": "La guerra es muy cruel y es", "body": "pienso en su importancia", "userId": 3 }
+  "posts": [
+    { "id": 1, "title": "porque adoptar los animales", "body": "pienso en su importancia", "userId": 1 },
+    { "id": 2, "title": "El calentamientgo global es", "body": " es algo que suceda",      "userId": 2 },
+    { "id": 3, "title": "La guerra es muy cruel y es", "body": "pienso en su importancia", "userId": 3 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
